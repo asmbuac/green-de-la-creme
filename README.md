@@ -1,7 +1,9 @@
 # Green de la Creme
-This link leads to deployed site hosted by caprover and gitlab.
+~~This link leads to deployed site hosted by Caprover and GitLab.~~
 
-Website Link: https://green-de-la-creme.gitlab.io/green-de-la-creme
+~~Website Link: https://green-de-la-creme.gitlab.io/green-de-la-creme~~
+
+**Update:** The site is no longer deployed. Please refer to our demo for a quick overview: https://youtu.be/pDg5d5ELCoE?si=r9EmF235H0B5U1Xm
 
 **Team:**
 
